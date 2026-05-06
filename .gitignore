@@ -1,0 +1,4 @@
+data/*
+!data/download_dataset.sh
+
+.DS_Store
