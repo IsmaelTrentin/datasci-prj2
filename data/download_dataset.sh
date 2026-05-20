@@ -1,3 +1,3 @@
 #!/bin/bash
-curl -L -o ~/Downloads/student-mental-health-analysis.zip\
-  https://www.kaggle.com/api/v1/datasets/download/utkarshsharma11r/student-mental-health-analysis
+curl -L -o ~/Downloads/120-years-of-olympic-history-athletes-and-results.zip\
+  https://www.kaggle.com/api/v1/datasets/download/heesoo37/120-years-of-olympic-history-athletes-and-results
